@@ -113,4 +113,28 @@
 
 ## [Level 16](http://deathball.net/notpron/zoo/mznvh.htm)
 
-_In progress_
+1. Disregard images with 0
+2. The numbers are the spots of the levels in that level's username
+3. If there is a "#", then the letter must be A-Z inverted
+   - User: doom
+   - Pass: murder
+
+## [Level 17](http://deathball.net/notpron/finale/pron.htm)
+
+1. Check the source code, see the comment asking "what am i?"
+2. It is a lamp, so change the url to "http://deathball.net/notpron/finale/lamp.htm"
+
+## [Level 18](http://deathball.net/notpron/finale/lamp.htm)
+
+1. The lower notes of the new music file are "deafdeaf"
+2. Replace "lamp" with "deaf" in the url to get "http://deathball.net/notpron/finale/deaf.htm"
+
+## [Level 19](http://deathball.net/notpron/finale/deaf.htm)
+
+1. Find the comment "vovtvbm tuvgg" and brute force a caesar cipher on it
+   - User: unusual
+   - Pass: stuff
+
+## [Level 20](http://deathball.net/notpron/windows/something.php)
+
+_in progress_

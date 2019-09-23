@@ -137,4 +137,17 @@
 
 ## [Level 20](http://deathball.net/notpron/windows/something.php)
 
-_in progress_
+1. Decode the wingdings
+    - User: really
+    - Pass: unfair
+
+## [Level 21](http://deathball.net/notpron/twentyone/again.htm)
+
+1. Change the name of the image to the different colors, then overlay them to solve the maze
+    - User: getting 
+    - Pass: smarter
+
+## [Level 22](http://deathball.net/notpron/beepbeep/banana.htm)
+
+1. The answer is "unexpected" so replace is"banana" in the URL to "unexpected" to get "http://deathball.net/notpron/beepbeep/unexpected.htm"
+

@@ -185,4 +185,11 @@
 1. See that the picture number does not match the URL, so change "screen26" to "screen29" to make "http://notpron.org/pron/screen29/"
 
 ## [Level 29](http://notpron.org/pron/screen29/)
+
+1. Change "pron" to "notpron" to make "http://notpron.org/notpron/screen29/" and change "screen29" to "screen30" to make "http://notpron.org/notpron/screen30/"
+2. Input the username and password given
+   - User: rockin
+   - Pass: boppin
+
+## [Level 30](http://notpron.org/notpron/screen30/)
 *in progress*

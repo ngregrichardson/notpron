@@ -151,3 +151,38 @@
 
 1. The answer is "unexpected" so replace is"banana" in the URL to "unexpected" to get "http://deathball.net/notpron/beepbeep/unexpected.htm"
 
+## [Level 23](http://deathball.net/notpron/beepbeep/unexpected.htm)
+
+1. What is the smallest unit? A pixel! Replace "unexpected" with "pixel" in the URL to make "http://deathball.net/notpron/beepbeep/pixel.htm"
+2. Zoom in to find all five red pixels that spell out "sound"
+3. Replace "pixel" with "sound" in the URL to make "http://deathball.net/notpron/beepbeep/sound.htm"
+
+## [Level 24](http://deathball.net/notpron/beepbeep/sound.htm)
+
+1. What does the phone number in the source code spell?
+2. Replace "sound" with "xylophone" in the URL to make "http://deathball.net/notpron/beepbeep/xylophone.htm"
+
+## [Level 25](http://deathball.net/notpron/beepbeep/xylophone.htm)
+
+1. Filter out all but red channels, then all but blue channels. The top and bottom of the image show letters.
+2. Unscramble these to say "wilder wolves"
+3. Click the picture for login
+   - User: wilder
+   - Pass: wolves
+
+## [Level 26](http://deathball.net/notpron/screen26/)
+
+1. Change "screen26" to "zipper" and see that you need to zip something up.
+2. Go to "http://deathball.net/notpron/screen26/screen26.zip" and download the file
+
+## [Level 27](http://deathball.net/notpron/screen26/screen26.zip)
+
+1. Open the image, see that #26 "needs more titts"
+2. After all that pron, change "notpron" to "pron" to make "http://deathball.net/pron/screen26/"
+
+## [Level 28](http://notpron.org/pron/screen26/)
+
+1. See that the picture number does not match the URL, so change "screen26" to "screen29" to make "http://notpron.org/pron/screen29/"
+
+## [Level 29](http://notpron.org/pron/screen29/)
+*in progress*

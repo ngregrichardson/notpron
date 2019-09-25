@@ -231,8 +231,27 @@
 
 ## [Level 37](http://deathball.net/notpron/nomeaning/observe.htm)
 
-1. See numbers: 080135
-2. Jan 8th 1935
-3. elvis bithday
-4. append elvis to url
-5. On next page, hit next
+1. The numbers in the title are "080135", referring to January 8th, 1935 aka. Elvis Presley's Birthday.
+2. Change the link to "http://deathball.net/notpron/nomeaning/elvis.htm"
+3. Click "Next"
+
+## [Level 38](http://deathball.net/notpron/nomeaning/elvis2.htm)
+
+1. Comment in page source "MSN" referring to Windows Live Messenger.
+2. The code for the coffee, cocktail, and mail emoji in MSN is (c), (d), and (e) respectively. The 4th in order, as hinted by the title of the page, is (f) which is the flower emoji.
+3. Change the link to "http://deathball.net/notpron/nomeaning/flower.htm"
+
+## [Level 39](http://deathball.net/notpron/nomeaning/flower.htm)
+
+1. Comment in source code tells us "53;51;49;56;48;48;56; got an alternative again?"
+2. The numbers are ASCII Codes, translating it to their corresponding symbols gives us "8;0;0;8;1;3;5", otherwise known as "BOOBIES"
+3. Change the link to "http://deathball.net/notpron/nomeaning/boobies.htm" and click on the tit in the middle.
+
+## [Level 40](http://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm)
+
+1. Notice the word "NEXT" hidden in the 40 on the top-left.
+2. Change the link to "http://deathball.net/notpron/nomeaning/next.htm"
+
+## [Level 41](http://deathball.net/notpron/nomeaning/next.htm)
+
+*IN PROGRESS*

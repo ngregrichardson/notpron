@@ -208,4 +208,27 @@
 
 ## [Level 33](http://notpron.org/notpron/screen30/macroscopic.htm)
 
-*in progress*
+1. Using the keyboard in the image, spell "STFU" and "any" to get "kewl" and "day"
+2. Change the link to "http://notpron.org/notpron/screen30/kewlday.htm"
+
+## [Level 34](http://notpron.org/notpron/screen30/kewlday.htm)
+
+1. Notice the Shell Fuel Company logo and that 82 is lead on the periodic table.
+2. Leaded Fuel led to nowhere, but trying Unleaded Fuel in the link led to "http://notpron.org/notpron/screen30/unleadedfuel.htm"
+
+## [Level 35](http://notpron.org/notpron/screen30/unleadedfuel.htm)
+
+1. The title and login box both had sets of coordinates. Following these coords leads to Lake Mickey.
+2. Input the username and password given
+   - User: mickey
+   - Pass: mouse
+   
+## [Level 36](http://deathball.net/notpron/nomeaning/)
+
+1. Follow the link "deathball.net/notpron/nomeaning/36tbh.psd" to download a PSD file.
+2. Hide the layer of the face to reveal "observe"
+3. Change the link to "http://deathball.net/notpron/nomeaning/observe.htm"
+
+## [Level 37](http://deathball.net/notpron/nomeaning/observe.htm)
+
+*IN PROGRESS*

@@ -263,4 +263,9 @@
 2. Change the link to "http://deathball.net/notpron/nomeaning/scottymorris.htm"
 
 ## [Level 43](http://deathball.net/notpron/nomeaning/scottymorris.htm)
+
+1. Change the image url from "43small" to "43big" and notice the text that says "very small"
+2. Change the link to "http://deathball.net/notpron/nomeaning/verysmall.htm"
+
+## [Level 44](http://deathball.net/notpron/nomeaning/verysmall.htm)
 *in progress*

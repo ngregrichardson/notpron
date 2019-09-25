@@ -254,4 +254,13 @@
 
 ## [Level 41](http://deathball.net/notpron/nomeaning/next.htm)
 
-*IN PROGRESS*
+1. Change audio to "meep2.mp3" and translate the morse code to get "genius"
+2. Change the link to "http://deathball.net/notpron/nomeaning/genius.htm"
+
+## [Level 42](http://deathball.net/notpron/nomeaning/genius.htm)
+
+1. Realize David M. loves (BBVD) Big Bad Voodoo Daddy, then look up the leader of BBVD "Scotty Morris".
+2. Change the link to "http://deathball.net/notpron/nomeaning/scottymorris.htm"
+
+## [Level 43](http://deathball.net/notpron/nomeaning/scottymorris.htm)
+*in progress*

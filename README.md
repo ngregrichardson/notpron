@@ -192,4 +192,20 @@
    - Pass: boppin
 
 ## [Level 30](http://notpron.org/notpron/screen30/)
+
+1. Enter the main page of "http://www.notpron.org/notpron/" and visit the credits.
+2. Viewing the image of David M. and chainging the the url to "http://deathball.net/pics/team_davidm.jpg" reveals the link "http://notpron.org/notpron/screen30/davidandhism.htm". Proceed to the next level.
+
+## [Level 31](http://notpron.org/notpron/screen30/davidandhism2.htm)
+
+1. Read the metadata in the image to find that it was taken in Hirstein, Saarland, Germany. 
+2. Change the link to "http://notpron.org/notpron/screen30/hirstein.htm"
+
+## [Level 32](http://notpron.org/notpron/screen30/hirstein.htm)
+
+1. View the page source and open the css file to find the hint "the answer is macroscopic"
+2. Change the link to "http://notpron.org/notpron/screen30/macroscopic.htm"
+
+## [Level 33](http://notpron.org/notpron/screen30/macroscopic.htm)
+
 *in progress*

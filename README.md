@@ -231,4 +231,8 @@
 
 ## [Level 37](http://deathball.net/notpron/nomeaning/observe.htm)
 
-*IN PROGRESS*
+1. See numbers: 080135
+2. Jan 8th 1935
+3. elvis bithday
+4. append elvis to url
+5. On next page, hit next

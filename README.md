@@ -274,4 +274,13 @@
 3. See that the text reads "blow" and change the link to "http://deathball.net/notpron/nomeaning/blow.htm"
 
 ## [Level 45](http://deathball.net/notpron/nomeaning/blow.htm)
+
+1. Notice the numbers 40-45 scattered around the image, page, and source in multiple different languages.
+2. Putting the numbers in order and looking at the language gives "Portuguese, Spanish, French, Dutch, German, Danish"
+3. Following the countries in order of the languages (Portugal, Spain, France, Netherlands, German, Denmark) leads to Sweden.
+4. Taking the number 46 and translating it to swedish gives the word "Fyrtiosex"
+5. Change the link to "http://deathball.net/notpron/nomeaning/fyrtiosex.htm"
+
+## [Level 46](http://deathball.net/notpron/nomeaning/fyrtiosex.htm)
+
 *in progress*

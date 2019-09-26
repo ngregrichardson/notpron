@@ -1,3 +1,5 @@
+# **WARNING : SPOILERS FOR NOTPRON AHEAD! CONTINUE WITH CAUTION!**
+
 ## [Level 1](http://notpron.org/notpron/levelone.htm)
 
 1. Click on the door
@@ -283,4 +285,10 @@
 
 ## [Level 46](http://deathball.net/notpron/nomeaning/fyrtiosex.htm)
 
-*in progress*
+1. Notice the image is named "46a.jpg" and change the name to see "46b.jpg"
+2. Overlapping the two images shows the white boxes overlapping the white lines, giving the words "EXTRA" and "FUN"
+3. Input the username and password given
+   - User: extra
+   - Pass: fun
+   
+## [Level 47](http://deathball.net/notpron/threethreethree/)

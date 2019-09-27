@@ -330,5 +330,17 @@
 
 ## [Level 53](http://deathball.net/notpron/flutsch/tree.htm)
 
+1. Put "road.htm"
+
+## [Level 50](http://deathball.net/notpron/flutsch/road.htm)
+
+PLOT TWIST BACK AT 50
+"51-53 was a joke!"
+
+1. View source, open top.htm
+2. scroll to bottom, shows "boring.htm
+
+## [REAL Level 51](http://deathball.net/notpron/flutsch/boring.htm)
+
 1. 
 

@@ -292,3 +292,17 @@
    - Pass: fun
    
 ## [Level 47](http://deathball.net/notpron/threethreethree/)
+
+1. Dim chords (Nate figured out)
+2. Tried to append "dim.htm" to url and it returned gbdim.htm
+3. Added that instead and it worked
+
+## [Level 48](http://deathball.net/notpron/threethreethree/gbdim.htm)
+
+1. DNA photo and DNA nucleotide chain in title
+2. converting to matching dna sequence does nothing
+3. Convert to RNA on a website and it returns SAINTSEVE <--?
+4. Change link to "http://deathball.net/notpron/threethreethree/saintseve.php"
+
+## [Level 49](http://deathball.net/notpron/threethreethree/saintseve.php)
+

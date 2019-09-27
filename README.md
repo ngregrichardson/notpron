@@ -342,5 +342,14 @@ PLOT TWIST BACK AT 50
 
 ## [REAL Level 51](http://deathball.net/notpron/flutsch/boring.htm)
 
+1. Try minesweeper.htm
+2. Says "try something else"
+3. Try "Solitaire.htm"
+4. Says "Stick to minesweeper, and don't cheat, or do.."
+5. Search how to cheat inn minesweeper, code is "XYZZY"
+6. Append "xyzzy.htm"
+
+## [Level 52](http://deathball.net/notpron/flutsch/xyzzy.htm)
+
 1. 
 

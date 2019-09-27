@@ -306,3 +306,12 @@
 
 ## [Level 49](http://deathball.net/notpron/threethreethree/saintseve.php)
 
+1. Comments in page source making references to "USA vs. GERMANY"
+2. Password hint is "911:dollarfahrenheit", german counterpart is "110:eurocelsius"
+3. Input the username and password given
+   - User: 110
+   - Pass: eurocelsius
+   
+## [Level 50](http://deathball.net/notpron/flutsch/index.htm)
+
+*in progress*

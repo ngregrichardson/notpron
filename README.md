@@ -314,4 +314,21 @@
    
 ## [Level 50](http://deathball.net/notpron/flutsch/index.htm)
 
-*in progress*
+1. See "shot!" in title
+2. Append "shot.htm"
+3. Says "shot the LASER"
+4. Append "laser.htm"
+5. profit
+
+## [Level 51](http://deathball.net/notpron/flutsch/laser.htm)
+
+1. Literally just put "tower.htm"
+
+## [Level 52](http://deathball.net/notpron/flutsch/tower.htm)
+
+1. Seriously? Put "tree.htm"
+
+## [Level 53](http://deathball.net/notpron/flutsch/tree.htm)
+
+1. 
+

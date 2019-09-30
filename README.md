@@ -351,5 +351,13 @@ PLOT TWIST BACK AT 50
 
 ## [Level 52](http://deathball.net/notpron/flutsch/xyzzy.htm)
 
+1. See upside down map of Europe
+2. Turn upright, only some pins line up with capitals
+3. Ones that do, match first letter abbreviation (Switzerland abbrev. is CH)
+4. Anagram it
+5. bleach.htm
+
+## [Level 53](http://deathball.net/notpron/flutsch/bleach.htm)
+
 1. 
 

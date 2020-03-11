@@ -359,5 +359,9 @@ PLOT TWIST BACK AT 50
 
 ## [Level 53](http://deathball.net/notpron/flutsch/bleach.htm)
 
-1. 
+1. View source, see audio is "music256.mp3"
+2. Change it to "music1337.mp3" because of leetspeak
+3. Listen and hear the lyrics "she's the one for me" at the end of the song
+4. Change the link to "http://deathball.net/notpron/flutsch/me.htm" (Last word in leet song)
 
+## [Level 54](http://deathball.net/notpron/flutsch/me.htm)

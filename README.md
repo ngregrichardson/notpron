@@ -365,3 +365,6 @@ PLOT TWIST BACK AT 50
 4. Change the link to "http://deathball.net/notpron/flutsch/me.htm" (Last word in leet song)
 
 ## [Level 54](http://deathball.net/notpron/flutsch/me.htm)
+
+1. Change link to "http://deathball.net/notpron/flutsch/me.html" because html is "<--fucking right"
+2. 

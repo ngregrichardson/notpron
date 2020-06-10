@@ -367,4 +367,14 @@ PLOT TWIST BACK AT 50
 ## [Level 54](http://deathball.net/notpron/flutsch/me.htm)
 
 1. Change link to "http://deathball.net/notpron/flutsch/me.html" because html is "<--fucking right"
-2. 
+2. Notice "Pt(3)Yb(1)Er(2)"
+3. Take the first # of letters from each element
+   **Pla**tinum
+   **Y**tterbium
+   **Er**bium
+4. Change link to "http://deathball.net/notpron/flutsch/player.html"
+5. Realize the mistake, and change link to "http://deathball.net/notpron/flutsch/player.htm"
+
+Note: There is a random "h" on the lower left of the image. Maybe something for a later level?
+
+## [Level 55](http://deathball.net/notpron/flutsch/player.htm)

@@ -386,3 +386,20 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 
 ## [Level 56](http://deathball.net/notpron/flutsch/gentle.htm)
 
+1. Image flashes occasionally with "some noun draped as liquid, dark even. no wait isn't it just even more horrible as while you die?"
+2. Change image from "56.gif" to "56.jpg" to notice new image with red dots
+3. Draw box using red dots and overlay it over a frame of the gif with the sentence
+4. Using the site title "Think outside the box", read the letters outside the box to get "soundslikeitisterrible"
+5. Change link to "http://deathball.net/notpron/flutsch/soundslikeitisterrible.htm"
+
+## [Level 57](http://deathball.net/notpron/flutsch/soundslikeitisterrible.htm)
+
+1. Site title "Mom, you'll never guess where I am" alludes to the password being a location
+2. +90 on the telephone box is the country code for telephone numbers in Turkey
+3. The source has a comment of "a 488", which is the areacode for Batman, Turkey
+4. Input the username and password
+   - User: batman
+   - Pass: turkey
+
+## [Level 58](http://www.deathball.net/notpron/love/wrongroad.htm)
+

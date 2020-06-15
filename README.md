@@ -378,3 +378,11 @@ PLOT TWIST BACK AT 50
 Note: There is a random "h" on the lower left of the image. Maybe something for a later level?
 
 ## [Level 55](http://deathball.net/notpron/flutsch/player.htm)
+
+1. See hint in source about how "things have changed, and they're only getting better"
+2. Change image "worst.jpg" to "worse, bad, good, better, best" to get different letters on each image
+3. Letters spell out "gentle"
+4. Change link to "http://deathball.net/notpron/flutsch/gentle.htm"
+
+## [Level 56](http://deathball.net/notpron/flutsch/gentle.htm)
+

@@ -308,7 +308,7 @@
 
 1. Comments in page source making references to "USA vs. GERMANY"
 2. Password hint is "911:dollarfahrenheit", german counterpart is "110:eurocelsius"
-3. Input the username and password given
+3. Input the username and password given **USERNAME AND PASSWORD FOR FOLLOWING PUZZLES**
    - User: 110
    - Pass: eurocelsius
    
